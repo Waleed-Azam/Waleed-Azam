@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Waleed-Azam
 - 👀 I’m interested in Signal processing, CPS-IoT, AI, Robots, HPC, and cloud computing with the focus Machine Learning
-- 🌱 I’m currently learning Masters in Electronic Systems
-- 💞️ I’m looking to collaborate with industry for HPC.
-- 📫 How to reach me waleed.ntnu@gmail.com
+
+- 📫 How to reach me waleed.azam@jotron.com
 
 
 
