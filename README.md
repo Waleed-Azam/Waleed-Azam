@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Waleed-Azam
-- 📫 How to reach me waleed.azam@jotron.com
+- 📫 How to reach me waleed.ntnu@gmail.com
 
 
 
