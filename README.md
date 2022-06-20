@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Waleed-Azam
 - 📫 How to reach me waleed.ntnu@gmail.com
 - Having interests in Cloud Data Compression Algorithms
--
 
 
 
